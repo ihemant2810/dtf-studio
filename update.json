@@ -1,6 +1,6 @@
 {
-  "version": "9.9.9",
+  "version": "1.0.0",
   "downloadUrl": "https://ihemant2810.github.io/dtf-studio/",
-  "releaseNotes": "TEST — verifying the signed update path works.",
-  "signature": "MEUCIHEtMlCSVslPGLyLzAKAOBB96kAvxuAnpaUkpkOk8c6IAiEA6gEAX0LqkkrLfTEoYqcCwowjkLMGbhcjCVRzw4npq3c="
+  "releaseNotes": "Initial release.",
+  "signature": "MEYCIQD9qpewmoNIP0S5voSX+dKDVofzDv7w48ZiWgOJQMNRWQIhAK6eN09Z5ZBO60MAbsVc5Fcg2Qwb13b2ndRmaizpZk1a"
 }
